@@ -1,0 +1,3 @@
+C:/Users/TOSHIBA/Documents/GitHub/PartyRegistration/cmake-build-debug/CMakeFiles/PartyRegistration.dir
+C:/Users/TOSHIBA/Documents/GitHub/PartyRegistration/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TOSHIBA/Documents/GitHub/PartyRegistration/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -23,7 +23,7 @@ void PartyRegistration::addParty(Party *party) {
     partyFile << partyData << endl;
     partyFile.close();
 
-    ofstream putAmins("partyAdmins.txt");
+    ofstream putAmins("partyAdmins.txt",ios::app);
     putAmins << party->getAdminName() << endl;
     putAmins.close();
 
